@@ -1,3 +1,13 @@
+# projeto github
+Projeto desenvolvido para o Bootcamp Spread FullStack Developer.
+
+# explicação
+O projeto consistia em criar um aplicativo componentizado com React Js.
+
+<img align="center" alt="Design da Tela" height="auto" width="600" src="https://i.imgur.com/vwppi0W.png"/>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
